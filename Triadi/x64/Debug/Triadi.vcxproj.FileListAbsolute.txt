@@ -1,0 +1,2 @@
+D:\C++\Triadi\x64\Debug\Triadi.exe
+D:\FCS.C++\Triadi\x64\Debug\Triadi.exe

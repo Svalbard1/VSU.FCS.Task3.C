@@ -1,0 +1,3 @@
+﻿  Triadi.cpp
+D:\C++\Triadi\Triadi.cpp(8,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Triadi.vcxproj -> D:\C++\Triadi\x64\Debug\Triadi.exe
